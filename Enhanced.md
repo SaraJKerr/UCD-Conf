@@ -3,6 +3,11 @@ Enhanced not Distant: Examining Independence in the Novels of Austen, Edgeworth,
 Sara J Kerr
 February 2018
 
+-   [Introduction](#introduction)
+-   [Loading Packages](#loading-packages)
+-   [Creating A Lexicon](#creating-a-lexicon)
+-   [Exploring Frequencies](#exploring-frequencies)
+
 ### Introduction
 
 This document provides the code and results for the analysis conducted for the paper 'Enhanced not Distant: Examining Independence in the Novels of Austen, Edgeworth, and Owenson' presented at the 'Digital Cultures, Big Data and Society' conference on 15th and 16th February 2018.
